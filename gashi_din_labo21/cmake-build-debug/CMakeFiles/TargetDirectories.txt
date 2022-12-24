@@ -1,0 +1,3 @@
+C:/Users/dinga/OneDrive/Desktop/HEIGVD/PRG1-C/gashi_din_labo21/cmake-build-debug/CMakeFiles/finalolabo11.dir
+C:/Users/dinga/OneDrive/Desktop/HEIGVD/PRG1-C/gashi_din_labo21/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinga/OneDrive/Desktop/HEIGVD/PRG1-C/gashi_din_labo21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
